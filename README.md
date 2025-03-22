@@ -199,5 +199,5 @@ WHERE rt.rider_rating < 3.5 OR rt.driver_rating < 3.5;
 - Leverage big data analytics for predictive insights and pricing optimization.
 
 
-## Author
-Your Name - [[LinkedIn Profile](https://www.linkedin.com/in/anirudhajohare/)]
+# Project By
+Anirudha Johare - [[LinkedIn Profile](https://www.linkedin.com/in/anirudhajohare/)]
