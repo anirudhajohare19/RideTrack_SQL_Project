@@ -1,16 +1,16 @@
-# 🚗 RideTrack SQL Project
+#  RideTrack SQL Project
 
-## ⚪️ Introduction
+##  Introduction
 RideTrack is a SQL-based ride-booking system that manages riders, drivers, vehicles, rides, payments, and ratings. It simulates a real-world application similar to Uber or Lyft, providing essential analytics and insights for operational efficiency.
 
-## ⚪️ Objective of the Project
+##  Objective of the Project
 - Efficiently store and retrieve ride-booking data.
 - Ensure data consistency using foreign keys, constraints, and normalization.
 - Analyze ride trends, payment methods, and driver performance.
 - Provide business insights into ride demand, revenue, and customer feedback.
 - Support decision-making through data-driven reports and queries.
 
-## ⚪️ Data Insights
+##  Data Insights
 - **User Distribution:** Analyze the total number of riders and drivers.
 - **Most Popular Pickup Locations:** Identify high-demand areas.
 - **Revenue Trends:** Calculate total revenue generated from completed rides.
@@ -161,7 +161,7 @@ WHERE rt.rider_rating < 3.5 OR rt.driver_rating < 3.5;
 
 ----
 
-## 📊 Business Strategies
+##  Business Strategies
 ### 1. User Acquisition & Market Penetration
 - Implement structured referral rewards for riders and drivers.
 - Establish agreements with businesses, hotels, and airports.
